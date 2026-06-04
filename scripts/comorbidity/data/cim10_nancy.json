@@ -1,0 +1,59 @@
+{
+    "Cardiopathie ischémique": {
+        "I20":  "Angine de poitrine",
+        "I21":  "Infarctus aigu du myocarde",
+        "I22":  "Infarctus du myocarde à répétition",
+        "I25":  "Cardiopathie ischémique chronique"
+    },
+    "Fibrillation atriale": {
+        "I48":  "Fibrillation et flutter auriculaires"
+    },
+    "Insuffisance cardiaque chronique": {
+        "I50":  "Insuffisance cardiaque",
+        "I500": "Insuffisance cardiaque congestive",
+        "I501": "Insuffisance ventriculaire gauche",
+        "I509": "Insuffisance cardiaque, sans précision"
+    },
+    "Pacemaker": {
+        "Z950": "Présence d'un stimulateur cardiaque électronique",
+        "Z450": "Adaptation et gestion d'un stimulateur cardiaque",
+        "T821": "Complications mécaniques d'un stimulateur cardiaque"
+    },
+    "Pontage aorto-coronarien": {
+        "Z951": "Présence d'un pontage aortocoronarien"
+    },
+    "Insuffisance rénale chronique": {
+        "N18":  "Insuffisance rénale chronique"
+    },
+    "Antécédent d'AVC": {
+        "Z867": "Antécédents personnels de maladies du système circulatoire",
+        "I693": "Séquelles d'infarctus cérébral",
+        "I694": "Séquelles d'AVC, sans précision",
+        "I63":  "Infarctus cérébral (AVC ischémique aigu)",
+        "I61":  "Hémorragie intracérébrale (AVC hémorragique aigu)"
+    },
+    "Cirrhose": {
+        "K746": "Cirrhose hépatique, sans précision",
+        "K743": "Cirrhose biliaire primitive",
+        "K703": "Cirrhose alcoolique du foie",
+        "K744": "Cirrhose biliaire secondaire",
+        "K717": "Maladie hépatique toxique avec fibrose et cirrhose"
+    },
+    "Cancer actif": {
+        "" : "# C00–C97 selon localisation" 
+    },
+    "Immunodépression": {
+        "D849": "Déficit immunitaire, sans précision",
+        "Z94":  "Organe et tissu greffé (immunosuppression post-transplantation)",
+        "B20":  "Maladie à VIH avec immunodépression",
+        "Z796": "Utilisation à long terme d'immunosuppresseurs"
+    },
+    "Dyslipidémie": {
+        "E78":  "Troubles du métabolisme des lipoprotéines"
+    },
+    "Diabète": {
+        "E10":  "Diabète sucré de type 1",
+        "E11":  "Diabète sucré de type 2",
+        "E13":  "Autres diabètes précisés"
+    }
+}
