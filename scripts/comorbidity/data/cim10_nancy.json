@@ -4,8 +4,7 @@
         "I21":  "Infarctus aigu du myocarde",
         "I22":  "Infarctus du myocarde à répétition",
         "I25":  "Cardiopathie ischémique chronique",
-        ##########################################################
-        "I250": "Athérosclérose cardiovasculaire, décrite ainsi",
+
         "I251": "Cardiopathie artérioscléreuse",
         "I252": "Infarctus du myocarde, ancien",
         "I253": "Anévrisme du cœur",
@@ -17,7 +16,7 @@
     },
     "Fibrillation atriale": {
         "I48":  "Fibrillation et flutter auriculaires",
-        ####################################################
+
         "I480": "Fibrillation auriculaire paroxystique",
         "I481": "Fibrillation auriculaire persistante",
         "I482": "Fibrillation auriculaire chronique [permanente]",
@@ -35,23 +34,13 @@
         "Z950": "Présence d'un stimulateur cardiaque électronique",
         "Z450": "Adaptation et gestion d'un stimulateur cardiaque",
         "T821": "Complications mécaniques d'un stimulateur cardiaque",
-        #########################################################
-        "Z950": "Présence de dispositifs électroniques cardiaques",
-        "Z951": "Présence d'un pontage aortocoronaire",
-        "Z952": "Présence de prothèse d'une valve cardiaque",
-        "Z953": "Présence d'une valve cardiaque xénogénique",
-        "Z954": "Présence d'une autre valve cardiaque de remplacement",
-        "Z955": "Présence d'implant et de greffe vasculaires coronaires",
-        "Z958": "Présence d'autres implants et greffes cardiaques et vasculaires",
-        "Z959": "Présence d'implant et de greffe cardiaques et vasculaires, sans précision"
-
     },
     "Pontage aorto-coronarien": {
         "Z951": "Présence d'un pontage aortocoronarien"
     },
     "Insuffisance rénale chronique": {
         "N18":  "Insuffisance rénale chronique",
-        #################################################
+
         "N181": "Maladie rénale chronique, stade 1",
         "N182": "Maladie rénale chronique, stade 2",
         "N183": "Maladie rénale chronique, stade 3",
@@ -66,7 +55,7 @@
         "I694": "Séquelles d'AVC, sans précision",
         "I63":  "Infarctus cérébral (AVC ischémique aigu)",
         "I61":  "Hémorragie intracérébrale (AVC hémorragique aigu)",
-        ###################################################
+
         "I690": "Séquelles d'hémorragie sousarachnoïdienne",
         "I691": "Séquelles d'hémorragie intracérébrale",
         "I692": "Séquelles d'autres hémorragies intracrâniennes non traumatiques",
@@ -80,7 +69,7 @@
         "K703": "Cirrhose alcoolique du foie",
         "K744": "Cirrhose biliaire secondaire",
         "K717": "Maladie hépatique toxique avec fibrose et cirrhose",
-        ############################################################
+
         "K740": "Fibrose hépatique",
         "K741": "Sclérose hépatique",
         "K742": "Fibrose hépatique, avec sclérose hépatique",
@@ -96,14 +85,14 @@
         "Z94":  "Organe et tissu greffé (immunosuppression post-transplantation)",
         "B20":  "Maladie à VIH avec immunodépression",
         "Z796": "Utilisation à long terme d'immunosuppresseurs",
-        ########################################################
+
         "D840": "Anomalie de la fonction lymphocytaire associée à l'antigène 1",
         "D841": "Déficit du complément",
         "D848": "Autres déficits immunitaires précisés"
     },
     "Dyslipidémie": {
         "E78":  "Troubles du métabolisme des lipoprotéines",
-        ######################################################
+
         "E780": "Hypercholestérolémie essentielle",
         "E781": "Hyperglycéridémie essentielle",
         "E782": "Hyperlipidémie mixte",
@@ -118,7 +107,7 @@
         "E10":  "Diabète sucré de type 1",
         "E11":  "Diabète sucré de type 2",
         "E13":  "Autres diabètes précisés",
-        #################################################
+        
         "E100": "Diabète sucré de type 1 - Avec coma",
         "E101": "Diabète sucré de type 1 - Avec acidocétose",
         "E102": "Diabète sucré de type 1 - Avec complications rénales",
